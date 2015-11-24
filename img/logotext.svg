@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="35 442.6 709.5 252.4" style="enable-background:new 35 442.6 709.5 252.4;" xml:space="preserve">
+	 viewBox="161 489.6 564 103" style="enable-background:new 161 489.6 564 103;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:0.7704;stroke-miterlimit:10;}
-	.st1{fill:none;}
-	.st2{fill:#4435D3;}
-	.st3{font-family:'ArialMT';}
-	.st4{font-size:42.4953px;}
-	.st5{fill:#FCFCFC;}
+	.st0{display:none;fill:#FFFFFF;stroke:#000000;stroke-width:0.7704;stroke-miterlimit:10;}
+	.st1{display:none;fill:none;}
+	.st2{display:none;enable-background:new    ;}
+	.st3{display:inline;fill:#4435D3;}
+	.st4{fill:#FCFCFC;}
+	.st5{font-family:'ArialMT';}
 	.st6{font-size:63px;}
 	.st7{font-size:30px;}
+	.st8{fill:none;}
+	.st9{fill:#FFFFFF;}
+	.st10{font-family:'OriyaMN';}
+	.st11{font-size:107px;}
 </style>
-<ellipse class="st0" cx="153.3" cy="563.9" rx="118.3" ry="111.7"/>
-<rect x="35.4" y="533.1" class="st1" width="212.3" height="86.9"/>
-<text transform="matrix(1 0 0 1 47.4671 563.2477)" class="st2 st3 st4">AWESOME</text>
-<text transform="matrix(1 0 0 1 88.4671 614.2477)" class="st2 st3 st4">LOGO</text>
-<rect x="271.5" y="553.3" class="st1" width="465.1" height="101.6"/>
-<text transform="matrix(1 0 0 1 271.5083 598.0753)" class="st5 st3 st6">Samari</text>
-<text transform="matrix(1 0 0 1 271.5083 634.0753)" class="st5 st3 st7">Crowd sourcing for the Greater Good</text>
+<ellipse class="st0" cx="188.3" cy="1006.5" rx="118.3" ry="111.7"/>
+<rect x="-13.6" y="479.8" class="st1" width="212.3" height="86.9"/>
+<text transform="matrix(1 0 0 1 82.4671 1005.8477)" class="st5" style="display:none;fill:#4435D3;enable-background:new    ; font-size:42.4953px;">AWESOME</text>
+<text transform="matrix(1 0 0 1 123.4671 1056.8477)" class="st5" style="display:none;fill:#4435D3;enable-background:new    ; font-size:42.4953px;">LOGO</text>
+<rect x="222.5" y="500" class="st1" width="465.1" height="101.6"/>
+<text transform="matrix(1 0 0 1 222.5083 544.7754)" class="st4 st5 st6">amari</text>
+<text transform="matrix(1 0 0 1 222.5083 580.7754)" class="st4 st5 st7">Crowd sourcing for the Greater Good</text>
+<rect x="167" y="489.6" class="st8" width="155" height="129"/>
+<text transform="matrix(1 0 0 1 167 574.4506)" class="st9 st10 st11">S</text>
 </svg>
